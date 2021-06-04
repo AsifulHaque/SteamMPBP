@@ -13,6 +13,6 @@ Based on SteamOnlineSubsystem
 * Map selection & Server Travel
 * Only Listen server, No support for dedicated server. 
 
-NOTE: - THIS IS JUST A BARE MINIMUM OF BP CODE AND UI TO HAVE BASIC STEAM ONLINE LISTEN SERVER USING TEST APPID (480). 
-      - Behaviour in C++ project is not tested yet
-      - Performance of blueprint is not guaranteed. 
+NOTE: * THIS IS JUST A BARE MINIMUM OF BP CODE AND UI TO HAVE BASIC STEAM ONLINE LISTEN SERVER USING TEST APPID (480). 
+      * Behaviour in C++ project is not tested yet
+      * Performance of blueprint is not guaranteed. 
