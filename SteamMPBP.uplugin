@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SteamMPBP",
+	"Description": "Steam matchmaking with listen server multiplayer session framework packed into a modular plugin",
+	"Category": "Gameplay Frameworks",
+	"CreatedBy": "Asiful Haque",
+	"CreatedByURL": "https://github.com/AsifulHaque",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": false
+}
